@@ -1,0 +1,53 @@
+footer{
+    border: 1px solid black;
+    width: 1440px;
+    height: 324px;
+}
+.media{
+    
+    width: 276px;
+    height: 157px;
+    margin-top: 40px;
+    margin-left: 129px;
+}
+.logo2{
+    
+    width: 150px;
+    height: 46px;
+    display: flex;
+}
+#log{
+    width: 44px;
+    height: 44px;
+}
+#bran{
+    width: 77px;
+height: 21px;
+margin-top: 12px;
+margin-left: 10px;
+}
+.lore{
+    
+    width: 276px;
+    height: 48px;
+}
+.icons{
+    
+    width: 200px;
+    height: 32px;
+    margin-top: 20px;
+}
+#about{
+    border: 1px solid;
+    width: 81px;
+    height: 137px;
+}
+.nav1 li :hover{ 
+    color: rgb(235, 17, 17);
+    font-size:large;    
+}
+.bread li :hover{ 
+    color: rgb(235, 17, 17);
+    font-size:large;    
+}
+

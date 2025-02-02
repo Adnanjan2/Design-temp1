@@ -1,0 +1,65 @@
+.parant{
+    position: relative;
+}
+.logo{
+    border-radius: 8px;
+    width: 44px;
+    height: 44px;
+    background-color:#0D6EFD;
+    box-shadow: #5c93e0 4px 2px 5px -1px;
+}
+h3{
+    margin-top: 12px;
+    margin-left: 15px;
+    width: 77px;
+    height: 21.1px;
+    color: #8CB7F5;
+    font-size: x-large;
+}
+header{
+    border: 1px solid rgba(38, 38, 233, 0.253);
+    width: 1440px;
+    height: 86px;
+    display: flex;
+    justify-content: space-between;
+}
+.brand{
+    display: flex;
+    width: 150px;
+    height: 44px;
+    margin-top: 20px;
+    margin-left: 130px;
+}
+.form{
+    border: 2px solid #0D6EFD;
+    border-radius: 5px;
+    height: 40px;
+    width: 665px;
+    position: relative;
+    margin-top: 22px;
+    margin-right: 70px;
+
+}
+#inf1{
+    position: absolute;
+    width: 422px;
+    height: 40px;
+    border: none;
+}
+#select1{
+    border:1px solid#0D6EFD;
+    width: 145px;
+    height: 40px;
+    position: absolute;
+    margin-left:421px ;
+}
+.but1{
+    background-color: #127FFF;
+    color: white;
+    position: absolute;
+    margin-left: 565px;
+    height: 40px;
+    width: 100px;
+    border: none;
+}
+

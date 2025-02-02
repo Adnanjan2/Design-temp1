@@ -1,0 +1,66 @@
+.parbre{
+    border: 1px solid rgba(38, 38, 233, 0.253);
+    width: 1440px;
+    height: 64px;
+}
+.bread{
+    width: 411px;
+    height: 24px;
+    margin-left: 130px;
+    display: flex;
+}
+aside{
+    /* border: 1px solid; */
+    width: 240px;
+    height: 1448px;
+    margin-left: 132px;
+}
+.sid1{
+    width: 230px;
+    height: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+.exp{
+    margin-top: 17px;
+    margin-right: 10px;
+}
+#str{
+    font-size:large;
+    font-weight: bold;
+}
+.sid2{
+    width: 240px;
+    height: 36px;
+}
+.nav2{
+    border: none;
+    width: 240px;
+    height: auto;
+}
+#see{
+    font-size:16px;
+    color:#0D6EFD;
+}
+.min{
+   display: flex;
+    width: 230px;
+    height: 52px;
+}
+.lab1{
+    width: 90px;
+    height: 40px;
+    border: 1px solid#DEE2E7;
+}
+#apply{
+    width: 230px;
+    height: 52px;
+   color: #0D6EFD;
+   background-color: #FFFFFF;
+   border: 1px solid#DEE2E7;
+}
+#rate{
+    width: 93px;
+    height: 18px;
+}
+

@@ -1,0 +1,58 @@
+.action{
+    width: 228px;
+    height: 41px;
+    display: flex;
+    margin-top: 25px;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+.but2{
+    width: 37px;
+    height: 41px;
+}
+#img1{
+    width: 37px;
+    height: 41px;
+}
+nav{
+    border: 1px solid rgba(38, 38, 233, 0.253);
+    width: 1440px;
+    height: 56px;
+}
+.nav1{
+    display: flex;
+    width: 620px;
+    height: 24px;
+    gap: 10px;
+    margin-left: 130px;
+}
+
+li{
+    margin-left: 10px;
+    margin-top: 18px;
+    list-style: none;
+}
+a{
+    color:#1C1C1C;
+    text-decoration: none;
+}
+.icon1{
+    width: 24px;
+    height: 24px;
+    margin-top: 16px;
+}
+#pay{
+    width: 105px;
+    height: 24px;
+}
+#ship{
+    width: 115px;
+    height: 24px;
+}
+.payment{
+    display: flex;
+    justify-content: space-between;
+ width: 260px;
+ margin-top: -6px;
+ margin-left: 1041px;
+}

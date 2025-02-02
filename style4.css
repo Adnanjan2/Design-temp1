@@ -1,0 +1,112 @@
+.sect1{
+    width: 920px;
+    height: 1430px;
+    margin-left: 400px;
+    position: absolute;
+    margin-top: 70px;
+   
+}
+.item{
+    border: 1px solid #DEE2E7;
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 400px;
+    width: 920px;
+    height: 62px;
+    display: flex;
+}
+.set{
+    
+    height: 40px;
+    width: 346px;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 170px;
+}
+#veri{
+   margin-top: 10px;
+}
+#ver{
+    margin-left: 20px;
+}
+#feat{
+    width: 172px;
+    height: 40px;
+    margin-left: 50px;
+   
+}
+#mac{
+    width: 251px;
+    height: 19px;
+
+}
+#det{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.Mobile1{
+    border: 1px solid #DEE2E7;
+    width: 920px;
+    height: 220px;
+    display: flex;
+}
+
+#free{
+    color: #00B517;
+}
+#viw{
+    color: #0D6EFD;
+    font-size: 18px;
+}
+.Mobile2{
+    border: 1px solid #DEE2E7;
+    width: 920px;
+    height: 220px;
+    display: flex;
+}
+.Mobile3{
+    border: 1px solid #DEE2E7;
+    width: 920px;
+    height: 220px;
+    display: flex;
+}
+.laptop{
+    border: 1px solid #DEE2E7;
+    width: 920px;
+    height: 220px;
+    display: flex;
+}
+.watch{
+    border: 1px solid #DEE2E7;
+    width: 920px;
+    height: 220px;
+    display: flex;
+}
+.headphone{
+    border: 1px solid #DEE2E7;
+    width: 920px;
+    height: 220px;
+    display: flex;
+}
+#show{
+    width: 125px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 600px;
+    position: absolute;
+}
+.last{
+    border: 1px solid #DEE2E7;
+    width: 190px;
+    height: 37px;
+    position: absolute;
+    margin-left: 730px;
+    margin-top:30px ;
+    display: flex;
+}
+#ab{
+    border: 1px solid #DEE2E7;
+    width: 44px;
+    height: 37px;
+}
